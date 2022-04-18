@@ -1,2 +1,2 @@
-# Data-Science-Project
- my data science mini project
+# Data-Project
+ all about my data project 
